@@ -1,0 +1,14 @@
+10 9
+1 5
+1 4
+6 5
+2 3
+3 1
+2 1
+7 8
+9 7
+10 3
+
+// in this case, we can test 
+// whether you check the sets to be unioned belong to the same Set
+// if you not check, the first loop while in Find will no stop because of 4 == 4 !!
