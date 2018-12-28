@@ -8,7 +8,7 @@ I put my passages into **Issues**.
 
 | Name                                                         |
 | :----------------------------------------------------------- |
-| [Range(区间问题，素数筛法)](https://github.com/fzukeyAlgorithm/tree/master/Basic/01_range) |
+| [Range（区间问题，素数筛法)](https://github.com/fzukey/Algorithm/tree/master/Basic/01_range) |
 | [List（线性表，涉及数学的排列组合以及约瑟夫环)](https://github.com/fzukey/Algorithm/tree/master/Basic/02_sequence) |
 | [Stack（栈，包括最大栈，单调栈，还有一个编序方案问题待完成)](https://github.com/fzukey/Algorithm/tree/master/Basic/03_stack) |
 | [Queue（队列，包括约瑟夫环，数组模拟队列)](https://github.com/fzukey/Algorithm/tree/master/Basic/04_queue) |
