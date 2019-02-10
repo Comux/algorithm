@@ -37,7 +37,7 @@ int main(void)
         if (str[i] == 'a')
             odd_a++;
         else
-        	odd_b++;
+            odd_b++;
     }
 
     // 统计偶数位置上a, b的数量
