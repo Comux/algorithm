@@ -1,3 +1,8 @@
+/* 
+ * Given inorder and post order traverse of the binary tree,
+ * output the preorder of it.
+ */
+
 #include <cstdio>
 
 #define rep(i, b, e) for(i=b; i<=e; i++)
@@ -37,10 +42,12 @@ int main(void)
 }
 
 /*
-8
-4 3 1 6 5 8 7 2
-3 4 6 8 7 5 2 1
-
-1 4 3 2 5 6 7 8
-*/
+ * in.txt
+ * 8
+ * 4 3 1 6 5 8 7 2
+ * 3 4 6 8 7 5 2 1
+ *
+ * out.txt
+ * 1 4 3 2 5 6 7 8
+ */
 

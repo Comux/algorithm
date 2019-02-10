@@ -1,3 +1,8 @@
+/* 
+ * Given inorder and pre order traverse of the binary tree,
+ * output the postorder of it.
+ */
+
 #include <cstdio>
 
 const int N = 10000 + 5;
