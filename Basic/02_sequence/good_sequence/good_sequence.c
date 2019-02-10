@@ -24,7 +24,7 @@ char str[N];
 
 int main(void)
 {
-    int i, j, len;
+    int i, len;
     int odd_a = 0, even_a = 0;
     int odd_b = 0, even_b = 0;
     int res_odd = 0, res_even = 0;
@@ -37,7 +37,7 @@ int main(void)
         if (str[i] == 'a')
             odd_a++;
         else
-        	odd_n++;
+        	odd_b++;
     }
 
     // 统计偶数位置上a, b的数量
